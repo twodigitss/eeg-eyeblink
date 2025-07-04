@@ -93,7 +93,6 @@ def data_stream():
             print("Error 2nd nest:", e)
 
 
-
 if __name__ == "__main__":
     scann()
     connect()

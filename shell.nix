@@ -15,6 +15,9 @@ let
       matplotlib
       seaborn
       plotly
+
+      # LEARNING
+      sklearn-compat
     
   ]);
   
